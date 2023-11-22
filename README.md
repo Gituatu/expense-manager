@@ -1,3 +1,2 @@
 # expense-manager
-
-https://lemon-haddock-hat.cyclic.app
+https://puzzled-erin-undershirt.cyclic.app
